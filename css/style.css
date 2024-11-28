@@ -1,7 +1,17 @@
 @import "./global/global.css";
+/* Importa o arquivo global.css, que contém estilos globais para todo o projeto. */
+
 @import "./utilidades/tipografia.css";
+/* Importa o arquivo tipografia.css, que contém estilos de tipografia, como fontes, tamanhos e espaçamentos. */
+
 @import "./utilidades/cores.css";
+/* Importa o arquivo cores.css, que define as cores utilizadas no projeto. */
 
 @import "./global/header.css";
+/* Importa o arquivo header.css, que contém estilos específicos para o cabeçalho. */
+
 @import "./home/introducao.css";
+/* Importa o arquivo introducao.css, que contém estilos específicos para a seção de introdução da página inicial. */
+
 @import "./utilidades/componentes.css";
+/* Importa o arquivo componentes.css, que contém estilos para componentes reutilizáveis, como botões, inputs, etc. */
