@@ -11,11 +11,11 @@
 /* Importa o arquivo header.css, que contém estilos específicos para o cabeçalho. */
 
 @import "./home/introducao.css";
+@import "./home/tecnologia.css";
+@import "./home/parceiros.css";
 /* Importa o arquivo introducao.css, que contém estilos específicos para a seção de introdução da página inicial. */
 
 @import "./utilidades/componentes.css";
 /* Importa o arquivo componentes.css, que contém estilos para componentes reutilizáveis, como botões, inputs, etc. */
 
 @import "./bicicletas/bicicletas.css";
-
-@import "./home/tecnologia.css";
