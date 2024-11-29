@@ -13,6 +13,8 @@
 @import "./home/introducao.css";
 @import "./home/tecnologia.css";
 @import "./home/parceiros.css";
+@import "./home/depoimento.css";
+
 /* Importa o arquivo introducao.css, que contém estilos específicos para a seção de introdução da página inicial. */
 
 @import "./utilidades/componentes.css";
