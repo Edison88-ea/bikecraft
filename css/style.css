@@ -19,4 +19,5 @@
 /* Importa o arquivo componentes.css, que contém estilos para componentes reutilizáveis, como botões, inputs, etc. */
 
 @import "./bicicletas/bicicletas.css";
+@import "./termos/termos.css";
 @import "../seguros/seguros.css";
