@@ -16,12 +16,19 @@
 /* Importa o arquivo introducao.css, que contém estilos específicos para a seção de introdução da página inicial. */
 
 @import "./utilidades/componentes.css";
+@import "./utilidades/formulario.css";
 /* Importa o arquivo componentes.css, que contém estilos para componentes reutilizáveis, como botões, inputs, etc. */
 
 @import "./bicicletas/bicicletas.css";
 @import "./bicicletas/bicicletas_pg2.css";
 
+@import "./bicicleta/bicicleta.css";
+@import "./bicicleta/seguro.css";
+
 @import "./termos/termos.css";
 @import "../seguros/seguros.css";
 @import "../seguros/vantagens.css";
 @import "../seguros/perguntas.css";
+
+@import "./contato/contato.css";
+@import "./contato/lojas.css";
